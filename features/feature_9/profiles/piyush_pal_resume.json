@@ -1,0 +1,314 @@
+{
+  "personal": {
+    "full_name": "Piyush Pal",
+    "title": "Computer Science Student & Full-Stack AI Developer",
+    "email": "thepeeyushyadav0@gmail.com",
+    "phone": "8815332941",
+    "location": "Indore, Madhya Pradesh",
+    "linkedin": "LinkedIn",
+    "github": "GitHub",
+    "portfolio": "",
+    "website": ""
+  },
+  "summary": "Computer Science student specializing in Artificial Intelligence with a focus on building intelligent and scalable software systems. Experienced in backend development using Java and Spring Boot, full-stack application development with the MERN stack and Next.js, and applied machine learning using Python. Passionate about the intersection of software engineering and Generative AI to design intelligent applications.",
+  "skills": [
+    {
+      "name": "Java",
+      "category": "Languages",
+      "proficiency": 90
+    },
+    {
+      "name": "Python",
+      "category": "Languages",
+      "proficiency": 85
+    },
+    {
+      "name": "JavaScript",
+      "category": "Languages",
+      "proficiency": 85
+    },
+    {
+      "name": "TypeScript",
+      "category": "Languages",
+      "proficiency": 80
+    },
+    {
+      "name": "Spring Boot",
+      "category": "Frameworks",
+      "proficiency": 85
+    },
+    {
+      "name": "React",
+      "category": "Frameworks",
+      "proficiency": 80
+    },
+    {
+      "name": "Next.js",
+      "category": "Frameworks",
+      "proficiency": 85
+    },
+    {
+      "name": "MERN Stack",
+      "category": "Frameworks",
+      "proficiency": 85
+    },
+    {
+      "name": "JSP",
+      "category": "Frameworks",
+      "proficiency": 70
+    },
+    {
+      "name": "Prisma ORM",
+      "category": "Tools",
+      "proficiency": 80
+    },
+    {
+      "name": "Docker",
+      "category": "Tools",
+      "proficiency": 75
+    },
+    {
+      "name": "Redis",
+      "category": "Tools",
+      "proficiency": 70
+    },
+    {
+      "name": "RabbitMQ",
+      "category": "Tools",
+      "proficiency": 75
+    },
+    {
+      "name": "Git/GitHub",
+      "category": "Tools",
+      "proficiency": 85
+    },
+    {
+      "name": "Postman",
+      "category": "Tools",
+      "proficiency": 80
+    },
+    {
+      "name": "CI/CD",
+      "category": "Tools",
+      "proficiency": 70
+    },
+    {
+      "name": "SQL",
+      "category": "Databases",
+      "proficiency": 80
+    },
+    {
+      "name": "MongoDB",
+      "category": "Databases",
+      "proficiency": 85
+    },
+    {
+      "name": "PostgreSQL",
+      "category": "Databases",
+      "proficiency": 80
+    },
+    {
+      "name": "Oracle",
+      "category": "Databases",
+      "proficiency": 75
+    },
+    {
+      "name": "Machine Learning",
+      "category": "Other",
+      "proficiency": 80
+    },
+    {
+      "name": "NLP",
+      "category": "Other",
+      "proficiency": 80
+    },
+    {
+      "name": "Generative AI",
+      "category": "Other",
+      "proficiency": 85
+    },
+    {
+      "name": "LangChain",
+      "category": "Other",
+      "proficiency": 80
+    },
+    {
+      "name": "REST API Design",
+      "category": "Other",
+      "proficiency": 85
+    }
+  ],
+  "experience": [],
+  "education": [
+    {
+      "degree": "Bachelor of Technology (BTech)",
+      "field": "Computer Science and Engineering (Specialization in Artificial Intelligence)",
+      "institution": "Medicaps University",
+      "location": "Greater Indore Area",
+      "start_date": "Aug 2023",
+      "end_date": "Jun 2027",
+      "gpa": "",
+      "coursework": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Natural Language Processing",
+        "Generative AI",
+        "Full Stack Development"
+      ]
+    },
+    {
+      "degree": "Higher Secondary School",
+      "field": "PCM",
+      "institution": "St. Antony's Convent Sr. Schhol",
+      "location": "Sonkatch, Madhya Pradesh",
+      "start_date": "2022",
+      "end_date": "2023",
+      "gpa": "68",
+      "coursework": []
+    },
+    {
+      "degree": "Higher School",
+      "field": "MP Board",
+      "institution": "Aadarsh Convent H.Sec. School",
+      "location": "Pipalrawan, Sonkatch",
+      "start_date": "2020",
+      "end_date": "2021",
+      "gpa": "77.2",
+      "coursework": []
+    }
+  ],
+  "projects": [
+    {
+      "name": "Pyvra - B2B SaaS Website & Funnel Builder",
+      "technologies": [
+        "NextJS",
+        "Typescript",
+        "Prisma ORM",
+        "MySQL",
+        "Clerk",
+        "Tailwind CSS",
+        "Razorpay",
+        "UploadThing"
+      ],
+      "date": "Mar 2026",
+      "link": "",
+      "bullets": [
+        "Engineered a comprehensive B2B SaaS platform for building websites and sales funnels using Next.js and TypeScript.",
+        "Integrated Razorpay for secure payment processing and UploadThing for efficient file storage management.",
+        "Utilized Prisma ORM with MySQL to manage complex relational data structures."
+      ]
+    },
+    {
+      "name": "LangGraph Agentic AI Blog Writer",
+      "technologies": [
+        "Python",
+        "LangGraph",
+        "LangChain",
+        "Groq LLaMa3",
+        "Gemini",
+        "Streamlit"
+      ],
+      "date": "Feb 2026",
+      "link": "",
+      "bullets": [
+        "Developed an automated agentic AI blog writing system utilizing LangGraph and LangChain frameworks.",
+        "Implemented advanced LLM integration with Groq LLaMa3 and Google Gemini for high-quality content generation.",
+        "Created a user-friendly deployment interface using Streamlit."
+      ]
+    },
+    {
+      "name": "SpringBoot-AI-Microservices",
+      "technologies": [
+        "Spring Boot",
+        "Eureka Server",
+        "Keycloak",
+        "RabbitMQ",
+        "React.js",
+        "Gemini AI",
+        "Docker"
+      ],
+      "date": "Jul 2025",
+      "link": "",
+      "bullets": [
+        "Architected a microservices ecosystem using Spring Boot, Eureka Service Discovery, and Config Server.",
+        "Implemented asynchronous messaging between services using RabbitMQ and secured endpoints with Keycloak.",
+        "Containerized the entire application suite using Docker for scalable deployment."
+      ]
+    },
+    {
+      "name": "LinkedIn Clone (MERN Stack + Socket.io)",
+      "technologies": [
+        "MERN Stack",
+        "JWT",
+        "Socket.io",
+        "Material UI"
+      ],
+      "date": "Oct 2025",
+      "link": "",
+      "bullets": [
+        "Built a full-stack social media clone featuring real-time messaging and notifications via Socket.io.",
+        "Integrated secure user authentication and authorization protocols using JSON Web Tokens (JWT).",
+        "Designed a responsive and modern user interface using Material UI components."
+      ]
+    },
+    {
+      "name": "Next Word Prediction using LSTM",
+      "technologies": [
+        "Python",
+        "TensorFlow",
+        "Deep Learning",
+        "LSTM",
+        "NLP"
+      ],
+      "date": "Jan 2026",
+      "link": "",
+      "bullets": [
+        "Designed and trained a Long Short-Term Memory (LSTM) neural network for natural language next-word prediction.",
+        "Processed large textual datasets using NLP techniques and TensorFlow to optimize model performance."
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Full Stack Java Developer: Java, JSP, Spring, Spring Boot, JavaScript & React",
+      "issuer": "",
+      "date": "",
+      "link": ""
+    },
+    {
+      "name": "Complete Data Science, Machine Learning, Deep Learning & NLP Bootcamp",
+      "issuer": "",
+      "date": "",
+      "link": ""
+    },
+    {
+      "name": "Relational Databases & SQL: Complete Guide for Developers",
+      "issuer": "",
+      "date": "",
+      "link": ""
+    },
+    {
+      "name": "Introduction To Generative AI",
+      "issuer": "Simplilearn Powered By Google Cloud",
+      "date": "",
+      "link": ""
+    },
+    {
+      "name": "ChatGPT Complete Guide: OpenAI API, AI Tools, ChatGPT 4",
+      "issuer": "Udemy",
+      "date": "",
+      "link": ""
+    }
+  ],
+  "achievements": [
+    "Participant/Finalist in Smart India Hackathon 2025 at Medi-Caps University"
+  ],
+  "strengths": [
+    "Full-Stack Web Development",
+    "Backend Architecture",
+    "Applied Machine Learning",
+    "Intelligent Application Design"
+  ],
+  "courses": [],
+  "volunteer": []
+}
