@@ -11,7 +11,7 @@
 It is **not** a chatbot. It is an **agent** — a system that **perceives** its environment, **decides** what to do, and **acts** on your behalf.
 
 > [!IMPORTANT]
-> ALOA stands for **"Autonomous Laptop Operating Agent"** — an intelligent AI agent that lives on your laptop, understands your operating system, and autonomously performs complex tasks that would otherwise require manual human effort.
+> ALOA stands for **"Autonomous Laptop Operating Agent"** — an intelligent AI agent that lives on your laptop, understands your operating system, and autonomously performs complex tasks that would otherwise require manual human efforts.
 
 ---
 
